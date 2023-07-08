@@ -1,0 +1,21 @@
+.profile-img{
+  width: 50%;
+  border-radius: 50%;
+}body
+{
+background-color: #7D1D3F;
+}
+body{text-align: center;
+color: white;
+}
+  
+  .btn{
+    display: block;
+    color: black;
+    padding: 20px;
+    background: grey;
+    margin: 16px;
+    box-shadow: 5px 10px;
+    text-decoration: none;
+    color: white;
+  }
